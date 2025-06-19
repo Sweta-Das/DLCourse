@@ -12,8 +12,11 @@ Semantic search is a technique that improves search accuracy by understanding th
 ### How They Work Together:
 LLMs can power or enhance semantic search by generating embeddings (vector representations of meaning) for both queries and documents, allowing more intelligent and accurate information retrieval based on context.
 
+## 2. ChatGPT Prompt Development
+A short course from DeepLearning.AI platform about guidelines and prompting techniques. <br/>
 
-## 2. Building AI Browser Agents
+
+## 3. Building AI Browser Agents
 A short course from DeepLearning.AI platform regarding AI Agents, that can automate tasks on browser.
 
 An AI browser agent is an artificial intelligence system designed to autonomously navigate and interact with web pages—just like a human using a browser. It can read content, click links, fill out forms, extract data, and even make decisions based on what it sees.
