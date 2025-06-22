@@ -84,6 +84,6 @@ AgentQ combines the following methodologies to teach agents to self-correct:
 
 
 ### References:
-https://arxiv.org/abs/2408.07199
-https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/
-https://arxiv.org/abs/2305.18290
+- https://arxiv.org/abs/2408.07199 
+- https://www.deeplearning.ai/short-courses/reinforcement-learning-from-human-feedback/
+- https://arxiv.org/abs/2305.18290
