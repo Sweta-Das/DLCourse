@@ -2,7 +2,6 @@
 
 - Refers to Q-Learning
 - It is a fundamental reinforcement learning algorithm.
-</br>
 
 ### Definition
 Q-learning is a model-free reinforcement learning algorithm that learns to make decisions by discovering which actions are most valuable in which states.
@@ -20,13 +19,13 @@ Q-learning is a model-free reinforcement learning algorithm that learns to make 
     - Updates Q-values using the Bellman equation.
 
 ### Q-Learning Formula
-`Q(state, action) = Q(state, action) + $\alpha$[R + $\gamma$ * max(Q(next_state)) - Q(state, action)]`
+`Q(state, action) = Q(state, action) + α [R + γ * max(Q(next_state)) - Q(state, action)]`
 
-where,
-    - `$\alpha$ (alpha)` = Learning rate (0 to 1)
-    - `R` = reward received
-    - `$\gamma$ (gamma)` = discount factor (0 to 1)
-    - `max(Q(next_state))` = maximum predicted rewards for the next state
+where, </br>
+- `α (alpha)` = Learning rate (0 to 1)
+- `R` = reward received
+- `γ (gamma)` = discount factor (0 to 1)
+- `max(Q(next_state))` = maximum predicted rewards for the next state
 
 ### Advantages
 - Works without a model of the environment
