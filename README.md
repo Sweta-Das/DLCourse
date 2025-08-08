@@ -15,7 +15,6 @@ LLMs can power or enhance semantic search by generating embeddings (vector repre
 ## 2. ChatGPT Prompt Development
 A short course from DeepLearning.AI platform about guidelines and prompting techniques. <br/>
 
-
 ## 3. Building AI Browser Agents
 A short course from DeepLearning.AI platform regarding AI Agents, that can automate tasks on browser.
 
@@ -26,6 +25,14 @@ An AI browser agent is an artificial intelligence system designed to autonomousl
 - Information extraction: Gathers relevant data from web pages (like product prices, news, or user reviews).
 - Automation: Performs repetitive tasks like logging in, submitting forms, or scraping content.
 - Language understanding: Uses natural language processing to understand user instructions and web content.
+
+## 4. Knowledge Graphs for RAG
+A short course from DeepLearning.AI platform that focuses on how to leverage knowledge graphs to enhance RAG applications.
+
+### Key Features:
+- Structure Complex Data: Use knowledge graphs to organize complex data from both structured and unstructured sources.
+- Improve LLM Performance: Provide LLMs with more relevant and accurate context than traditional search methods alone, which is crucial for building more powerful and reliable AI applications.
+- Build a QA system: Learn to build a question-answering system using **Neo4j** and **LangChain** to interact with a knowledge graph of docs.
 
 
 
@@ -47,3 +54,4 @@ An AI browser agent is an artificial intelligence system designed to autonomousl
 - https://machinelearningmastery.com/what-are-large-language-models/
 - https://learn.deeplearning.ai/courses/large-language-models-semantic-search
 - https://learn.deeplearning.ai/courses/building-ai-browser-agents
+- https://www.deeplearning.ai/short-courses/knowledge-graphs-rag/
